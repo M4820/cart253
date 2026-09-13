@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>CART 253</title>
-</head>
-<body>
-
 <img src="images/banner.gif" >
 
 ---
@@ -19,5 +12,3 @@ To be added...
 ---
 * [Repository](https://github.com/M4820/cart253)
 * [Journal](https://m4820.github.io/cart253/journal)
-</body>
-</html>
