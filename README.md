@@ -1,8 +1,6 @@
-# CART 253
-<img src="images/banner.png">
+<img src="images/banner.gif">
 
-## Creative Computation
-
+---
 This website is a collection the prototyping work done in the CART253 course. It also serves as a way to document my progress at coding.
 
 ### Prototypes
