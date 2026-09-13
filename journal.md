@@ -13,3 +13,5 @@ I tend to value functionality over how a website actually looks, but in this cas
 I hope that for now at least, preserving the state of this website at this stage will help to show in the future how much it has changed... Basically, it would demonstrate how far it came along. It's a bit like setting the stage for my eventual improvement in skill at website making and coding in general... I'm looking forward to it.
 
 Here's a capture of current state of it. It can only get better from here on out...
+
+<img src="images/screenshot1.png">

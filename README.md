@@ -1,4 +1,4 @@
-<img src="images/banner.gif">
+<img src="images/banner.gif" >
 
 ---
 This website is a collection the prototyping work done in the CART253 course. It also serves as a way to document my progress at coding.
