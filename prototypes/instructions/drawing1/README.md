@@ -2,7 +2,7 @@
 
 Mona Belfedhal
 
-[View this project online](https://m4820.github.io/cart253/topics/instructions/drawing1/)
+[View this project online](https://m4820.github.io/cart253/prototypes/instructions/drawing1/)
 
 ## Description
 
