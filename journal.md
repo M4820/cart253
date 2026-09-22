@@ -14,7 +14,7 @@ I hope that for now at least, preserving the state of this website at this stage
 
 Here's a capture of current state of it. It can only get better from here on out...
 
-<img src="images/screenshot1.png">
+<img src="images/screenshot1.png" width="720">
 
 ## Entry 2
 
@@ -26,7 +26,7 @@ I really wanted to have at least one of my prototypes be interactive, something 
 
 My first idea was the rubber duck. I really tried to have a sound effect play whenever it was clicked, but I wasn't able to do it... For the water ripples, wouldn't it be cool if it was a looping animation? I don't know how to do that either, but I hope that the drawing at least gives an impression of how it would look like.
 
-<img src="images/rubberduck.png">
+<img src="images/rubberduck.png" width="720">
 
 The die is pretty rudimentary, but I was surprised by the end result. This is probably the most complex thing I've done so far, even though the code itself could be sleeker... Although I did simplify my initial idea by having it be numbered instead of drawing pips. The thought of drawing all those individual pips and figuring out how to display them according to each number though... That is way out of my league right now. But I'd like to revisit that idea someday.
 
