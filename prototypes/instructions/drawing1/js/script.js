@@ -3,6 +3,9 @@
  * Mona Belfedhal
  * 
  * A die that displays a random number from 1 to 6 whenever the mouse is pressed.
+ * 
+ * Main reference used: https://p5js.org/reference/p5/random/
+ * 
  */
 
 "use strict";
