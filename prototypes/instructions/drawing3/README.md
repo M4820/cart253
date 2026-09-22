@@ -1,8 +1,8 @@
 # TITLE OF PROJECT
 
-AUTHOR NAME
+Mona Belfedhal
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://m4820.github.io/cart253/prototypes/instructions/drawing3/)
 
 ## Description
 
