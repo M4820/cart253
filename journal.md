@@ -31,3 +31,20 @@ My first idea was the rubber duck. I really tried to have a sound effect play wh
 The die is pretty rudimentary, but I was surprised by the end result. This is probably the most complex thing I've done so far, even though the code itself could be sleeker... Although I did simplify my initial idea by having it be numbered instead of drawing pips. The thought of drawing all those individual pips and figuring out how to display them according to each number though... That is way out of my league right now. But I'd like to revisit that idea someday. Also, for the mouse press, surely there's a way to have it change numbers when only the die is clicked, rather than the entire canvas...
 
 I want to learn to make more interactive stuff like that, buttons, basically... A button that plays a sound, I would have done something simple like that. But like I said, I just couldn't get the sound effect to play ! ! ! That frustrated me so much... I'm probably making a really obvious and silly mistake though or something like that. Even displaying an image, I struggled with that too. So it's something specific to media files, maybe? No idea... But I'll definitely try and figure it out.
+
+## Entry 3
+
+### 29/09/2026
+
+#### Variables Assignment
+
+I continued trying to make "interactive" prototypes.
+For the balloon one, I think it has potential to be game-like. Something like trying to drag the balloon down before it can fly away. My initial idea was just to have the balloon flying off-screen, but I think that it would have been better if I found a way to make the string grabbable. I also think it would be cool to animate the string, with like a sine wave animation or something...
+
+<img src="images/Balloon.png" width="720">
+
+The cloud is also interactive. It's a bit like a button. Still, the mouse press affects the entire canvas... I also wanted to put a limit to the brightness and darkness of the cloud, but I struggled with that... I'm happy with how the rain turned out though.
+
+The one that's not interactive at all is the orbiting moon. My initial idea was a fan (that could hopefully be interactive, by pressing the mouse, the blades of the fan would turn.) But the rotation was a bit difficult to figure out... especially since I had 3 rotating blades in mind. But as I was making it, I thought that it looked a bit like an orbiting moon or something. So, I just went along with that instead... Maybe one day, I can come back to that fan idea...
+
+I still want to keep making interactable stuff like that. Last week, I only made one, but this time at least, there were 2! Maybe it can go up to 3 one day..?

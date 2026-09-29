@@ -21,6 +21,24 @@ This website is a collection the prototyping work done in the CART253 course. It
 
 [Website Version](https://m4820.github.io/cart253/prototypes/instructions/drawing3) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/instructions/drawing3)
 
+## Variables | [Journal Entry](https://m4820.github.io/cart253/journal#entry-3)
+### Floating Balloon
+<img src="images/Balloon.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/variables/var1/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/variables/var1)
+
+### Orbiting Moon
+<img src="images/Moon.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/variables/var2/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/variables/var2)
+
+### Rainy Cloud
+<img src="images/Rainy.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/variables/var3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/variables/var3)
+
+
+
 ### Links
 ---
 * [Repository](https://github.com/M4820/cart253)
