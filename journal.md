@@ -43,7 +43,7 @@ For the balloon one, I think it has potential to be game-like. Something like tr
 
 <img src="images/Balloon.png" width="720">
 
-The cloud is also interactive. It's a bit like a button. Still, the mouse press affects the entire canvas... I also wanted to put a limit to the brightness and darkness of the cloud, but I struggled with that... I'm happy with how the rain turned out though.
+The cloud is also interactive. It's a bit like a button. Still, the mouse press affects the entire canvas... I also wanted to put a limit to the brightness and darkness of the cloud, but I struggled with that... I'm happy with how the rain turned out though, even though it's pretty silly-looking.
 
 The one that's not interactive at all is the orbiting moon. My initial idea was a fan (that could hopefully be interactive, by pressing the mouse, the blades of the fan would turn.) But the rotation was a bit difficult to figure out... especially since I had 3 rotating blades in mind. But as I was making it, I thought that it looked a bit like an orbiting moon or something. So, I just went along with that instead... Maybe one day, I can come back to that fan idea...
 
