@@ -2,7 +2,7 @@
  * Floating Balloon
  * Mona Belfedhal
  * 
- * A balloon floating in the air. Click around to change its position.
+ * A balloon floating in the air made with p5js. Click around to change its position.
  */
 
 "use strict";
