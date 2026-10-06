@@ -6,7 +6,7 @@ Mona Belfedhal
 
 ## Description
 
-Press to make the ball higher. Try not to make it fall off the screen...
+Press to make the ball go higher. Try not to make it fall off the screen...
 
 ## Attribution
 

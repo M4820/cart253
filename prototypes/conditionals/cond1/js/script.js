@@ -57,27 +57,27 @@ function draw() {
     
     //movement and color change whenever arrow key is pressed
     if (keyIsDown(LEFT_ARROW) === true) {
-        circle.x -= 2;
+        circle.x -= 5;
         circle.fill.r -= 2;
         backgroundcolor.fill.g += 2;
     }
 
     if (keyIsDown(RIGHT_ARROW) === true) {
-        circle.x += 2;
+        circle.x += 5;
         circle.fill.g -= 2;
         backgroundcolor.fill.b += 2;
     }
 
     if (keyIsDown(UP_ARROW) === true) {
-        circle.y -= 2;
+        circle.y -= 5;
         circle.fill.b -= 2; 
         backgroundcolor.fill.r += 2;
     }
 
     if (keyIsDown(DOWN_ARROW) === true) {
-        circle.y += 2;
-        circle.fill.r -= 2; 
-        backgroundcolor.fill.g += 2;
+        circle.y += 5;
+        circle.fill.r += 2; 
+        backgroundcolor.fill.g -= 2;
     }
     
 
