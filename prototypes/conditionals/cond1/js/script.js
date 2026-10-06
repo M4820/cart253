@@ -82,7 +82,7 @@ function draw() {
     
 
 
-    //constraining the maximum value of the colors. when an arrow key is not pressed, the circle turns white, and the background turns black.
+    //constraining the maximum value of the colors. when an arrow key is not being pressed, the circle turns white, and the background turns black.
     let maxcolorCircler = constrain(circle.fill.r, 0, 255);
     let maxcolorCircleg = constrain(circle.fill.g, 0, 255);
     let maxcolorCircleb = constrain(circle.fill.b, 0, 255);
