@@ -2,7 +2,7 @@
 
 AUTHOR NAME
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://m4820.github.io/cart253/prototypes/conditionals/cond3/)
 
 ## Description
 
