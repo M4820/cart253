@@ -58,26 +58,26 @@ function draw() {
     //movement and color change whenever arrow key is pressed
     if (keyIsDown(LEFT_ARROW) === true) {
         circle.x -= 5;
-        circle.fill.r -= 2;
-        backgroundcolor.fill.g += 2;
+        circle.fill.r -= 4;
+        backgroundcolor.fill.g += 4;
     }
 
     if (keyIsDown(RIGHT_ARROW) === true) {
         circle.x += 5;
-        circle.fill.g -= 2;
-        backgroundcolor.fill.b += 2;
+        circle.fill.g -= 4;
+        backgroundcolor.fill.b += 4;
     }
 
     if (keyIsDown(UP_ARROW) === true) {
         circle.y -= 5;
-        circle.fill.b -= 2; 
-        backgroundcolor.fill.r += 2;
+        circle.fill.b -= 4; 
+        backgroundcolor.fill.r += 4;
     }
 
     if (keyIsDown(DOWN_ARROW) === true) {
         circle.y += 5;
-        circle.fill.r += 2; 
-        backgroundcolor.fill.g -= 2;
+        circle.fill.g -= 4; 
+        backgroundcolor.fill.g += 4;
     }
     
 
@@ -92,14 +92,14 @@ function draw() {
     let maxcolorBgb = constrain(backgroundcolor.fill.b, 0, 255);
 
     //turns the circle white
-    circle.fill.r = maxcolorCircler +=1;
-    circle.fill.g = maxcolorCircleg +=1;
-    circle.fill.b = maxcolorCircleb +=1;
+    circle.fill.r = maxcolorCircler +=2;
+    circle.fill.g = maxcolorCircleg +=2;
+    circle.fill.b = maxcolorCircleb +=2;
 
     //turns the background black
-    backgroundcolor.fill.r = maxcolorBgr -=1;
-    backgroundcolor.fill.g = maxcolorBgg -=1;
-    backgroundcolor.fill.b = maxcolorBgb -=1;
+    backgroundcolor.fill.r = maxcolorBgr -=2;
+    backgroundcolor.fill.g = maxcolorBgg -=2;
+    backgroundcolor.fill.b = maxcolorBgb -=2;
 
 
 }
