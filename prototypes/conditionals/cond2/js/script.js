@@ -78,7 +78,7 @@ function game() {
   background("#edf85c");
 
 
-  if (mouseIsPressed === true) {
+  if (mouseIsPressed || keyIsPressed === true) {
 
     //raise the ball when the mouse is being pressed
     ball.y -=1.5;

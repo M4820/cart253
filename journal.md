@@ -48,3 +48,23 @@ The cloud is also interactive. It's a bit like a button. Still, the mouse press 
 The one that's not interactive at all is the orbiting moon. My initial idea was a fan (that could hopefully be interactive, by pressing the mouse, the blades of the fan would turn.) But the rotation was a bit difficult to figure out... especially since I had 3 rotating blades in mind. But as I was making it, I thought that it looked a bit like an orbiting moon or something. So, I just went along with that instead... Maybe one day, I can come back to that fan idea...
 
 I still want to keep making interactable stuff like that. Last week, I only made one, but this time at least, there were 2! Maybe it can go up to 3 one day..?
+
+## Entry 4
+
+### 29/09/2026
+
+#### Conditionals Assignment
+
+When I added all the images together, I noticed how similar they all ended up looking... I think that next time, I should try to have some more variety visually...
+
+This time, I was able to make all 3 interactable!!! Well, that was kind of the point of the assignment, wasn't it... well, anyway, the second one is the most "game-like". Although, a lot of improvements could be made to it. For example, I wanted to have it restart once it reached the game over screen. But I couldn't get the ball to get back to its initial state...
+
+<img src="images/gameover.png" width="720">
+
+Additionally, I think it would be cool if the speed of the ball changed as it was falling. That's kind of what I had in mind when making the speeds different, but it's not fantastic right now... I couldn't figure it out... In any case, I really wanted to try out game states for at least one of the prototypes.
+
+I think that the flower one is cool too! It kind of looks like it has a low framerate in a nice way. It looks animated, I think... There are a lot of cool effects that can be done with rotating shapes. This one involved a lot of experimentation.
+
+The color changing one is simple. I like arrow key-based movement in general... That's what I had in mind when making it.
+
+I think there's a lot of room for improvement, as always... especially when it comes to the game-like one. I want to make something fun...! This one is maybe not so fun.
