@@ -17,7 +17,7 @@ let gameOver = false;
  * Create the canvas
  */
 function setup() {
-  createCanvas(400, 400);
+createCanvas(400, 400);
 }
 
 /**
@@ -47,6 +47,8 @@ function displayUI() {
     pop();
   }
   displayScore();
+  //check if the player lost
+  lose ();
 }
 
 /**
@@ -59,4 +61,25 @@ function displayScore() {
   textAlign(CENTER, CENTER);
   text(floor(score), width/2, height/2);
   pop();
+}
+
+//conditions to lose the game
+function lose() {
+    //If a key is pressed, the game is over
+    if (keyIsPressed === true) {
+    gameOver = true;
+}
+    //if the mouse is pressed within the canvas, the game is over
+else if (mouseIsPressed === true && mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
+    gameOver = true;
+}
+
+}
+
+//detect if the mouse is moving
+function mouseMoved(){
+    //if the mouse is moved within the canvas, the game is over
+    if (mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
+        gameOver = true;
+    }
 }
