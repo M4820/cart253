@@ -53,6 +53,22 @@ This website is a collection the prototyping work done in the CART253 course. It
 
 [Website Version](https://m4820.github.io/cart253/prototypes/conditionals/cond3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/conditionals/cond3)
 
+## Events | [Journal Entry](https://m4820.github.io/cart253/journal#entry-5)
+### Blow Bubbles
+<img src="images/Bubble.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/events/events1/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/events/events1)
+
+### Following Circle
+<img src="images/follow.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/events/events2/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/events/events2)
+
+### Strange Staircase
+<img src="images/Stairs.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/events/events3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/events/events3)
+
 
 
 ### Links
