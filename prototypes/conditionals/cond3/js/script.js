@@ -31,7 +31,7 @@ let angle = frameCount * 50;
  fill('pink');
 
  //center the flower
-  translate(360,220);
+  translate(360,240);
 
   //make the ellipse rotate
   rotate(angle);

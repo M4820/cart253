@@ -47,8 +47,8 @@ function draw() {
 //when the mouse is pressed, the circle travels to the current position of the mouse with an easing motion
 function mousePressed() {
 
-    circle.x = circle.x + (pmouseX - circle.x) * 0.05
-    circle.y = circle.y + (pmouseY - circle.y) * 0.05
+    circle.x = circle.x + (mouseX - circle.x) * 0.05
+    circle.y = circle.y + (mouseY - circle.y) * 0.05
 
 }
 
