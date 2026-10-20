@@ -20,6 +20,17 @@ const ball = {
     }
 };
 
+const ball2 = {
+    x: 200,
+    y: 20,
+    width: 10,
+    height: 10,
+    velocity: {
+        x: 0,
+        y: 5,
+    }
+};
+
 // Our paddle
 const paddle = {
     x: 300,
@@ -44,11 +55,14 @@ function draw() {
 
     movePaddle(paddle);
     moveBall(ball);
+    moveBall(ball2);
 
     handleBounce(ball, paddle);
+    handleBounce(ball2, paddle);
 
     drawPaddle(paddle);
     drawBall(ball);
+    drawBall(ball2);
 }
 
 /**
