@@ -68,3 +68,21 @@ I think that the flower one is cool too! It kind of looks like it has a low fram
 The color changing one is simple. I like arrow key-based movement in general... That's what I had in mind when making it.
 
 I think there's a lot of room for improvement, as always... especially when it comes to the game-like one. I want to make something fun...! This one is maybe not so fun.
+
+## Entry 5
+
+### 20/10/2026
+
+#### Events Assignment
+
+I think coming up with ideas was the most difficult part this time around. For most of them I just started with an empty, random color background, and then I tried to think of something from there...
+
+The one I thought of the most was the bubbles one. I really wanted to have multiple "spawn" by clicking. But it's just one for now... Maybe I should have named it "Blow Bubble(1)". Maybe I will come back to this idea someday... bubbles can also vary a lot in shape and size.
+
+For the following circle one, I wanted to try out easing transitions mostly. The idea was to click and have the shape go to wherever you clicked. But I wasn't sure how to make it "remember" where you clicked. So now it works by holding the mouse rather than clicking only ... Also, this still looks really similar to the previous ones, where it's just a circle in the middle... Maybe I've found my style. But seriously, I really need to have some more variety visually...
+
+The staircase took the longest. This one, I was just messing around really... I wanted to have something that can create a cool pattern. But maybe I should have made it more interactive. Basically make it easier to have some control over it.
+
+<img src="images/stairs2.png" width="720">
+
+I feel like there's some interesting patterns happening. And while I was messing around with it, there were a lot of "fake 3D" designs being made. I think that changing the opacity of things can create cool effects.
