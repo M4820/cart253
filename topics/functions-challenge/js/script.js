@@ -20,6 +20,7 @@ const ball = {
     }
 };
 
+// Our second ball
 const ball2 = {
     x: 200,
     y: 20,
@@ -48,10 +49,10 @@ function setup() {
 
 
 /**
- * Move and display the ball and paddle
+ * Move and display the balls and paddle
 */
 function draw() {
-    background("#87ceeb");
+    background("#afe8ff");
 
     movePaddle(paddle);
     moveBall(ball);
@@ -73,7 +74,7 @@ paddle.x = mouseX;
 }
 
 /**
- * Moves the ball passed in as a parameter
+ * Moves the balls passed in as a parameter
  */
 function moveBall(ball) {
 ball.x += ball.velocity.x;
@@ -84,11 +85,26 @@ ball.y += ball.velocity.y;
  * Bounces the provided ball off the provided paddle
  */
 function handleBounce(ball, paddle) {
-if  (checkOverlap(ball, paddle)) {
+
+//If the ball hits the left side of the paddle, it bounces to the left
+if  (checkOverlapLeft(ball, paddle)) {
     ball.velocity.y *= -1;
+    ball.velocity.x += -1;
+
+//If the ball hits the right side of the paddle, it bounces to the right
+}else if (checkOverlapRight(ball, paddle)) {
+    ball.velocity.y *= -1;
+    ball.velocity.x += 1;
 }
+
+//if the ball hits the top of the canvas, it bounces down
 if (ball.y < 0) {
     ball.velocity.y *= -1;
+}
+
+//if the ball hits the sides of the canvas, it bounces to the opposite side
+if (ball.x < 0 || ball.x > 600) {
+    ball.velocity.x *= -1;
 }
 }
 
@@ -99,7 +115,7 @@ function drawPaddle(paddle) {
     push();
     rectMode(CENTER);
     noStroke();
-    fill("black");
+    fill("pink");
     rect(paddle.x, paddle.y, paddle.width, paddle.height);
     pop();
 }
@@ -111,19 +127,32 @@ function drawBall(ball) {
     push();
     rectMode(CENTER);
     noStroke();
-    fill("blue");
+    fill("pink");
     rect(ball.x, ball.y, ball.width, ball.height);
     pop();
 }
 
 /**
- * Returns true if rectA and rectB overlap, and false otherwise
+ * Returns true if rectA overlaps with the left side of rectB, and false otherwise
  * Assumes rectA and rectB have properties x, y, width and height to describe
  * their rectangles, and that rectA and rectB are displayed CENTERED on their
  * x,y coordinates.
  */
-function checkOverlap(rectA, rectB) {
+function checkOverlapLeft(rectA, rectB) {
   return (rectA.x + rectA.width/2 > rectB.x - rectB.width/2 &&
+          rectA.x - rectA.width/2 < rectB.x &&
+          rectA.y + rectA.height/2 > rectB.y - rectB.height/2 &&
+          rectA.y - rectA.height/2 < rectB.y + rectB.height/2);
+}
+
+/**
+ * Returns true if rectA overlaps with the right side of rectB, and false otherwise
+ * Assumes rectA and rectB have properties x, y, width and height to describe
+ * their rectangles, and that rectA and rectB are displayed CENTERED on their
+ * x,y coordinates.
+ */
+function checkOverlapRight(rectA, rectB) {
+  return (rectA.x + rectA.width/2 > rectB.x &&
           rectA.x - rectA.width/2 < rectB.x + rectB.width/2 &&
           rectA.y + rectA.height/2 > rectB.y - rectB.height/2 &&
           rectA.y - rectA.height/2 < rectB.y + rectB.height/2);
