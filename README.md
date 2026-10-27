@@ -69,6 +69,21 @@ This website is a collection the prototyping work done in the CART253 course. It
 
 [Website Version](https://m4820.github.io/cart253/prototypes/events/events3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/events/events3)
 
+## Functions | [Journal Entry](https://m4820.github.io/cart253/journal#entry-6)
+### Catch the Ball
+<img src="images/catch.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/functions/functions1/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/functions/functions1)
+
+### Signal
+<img src="images/signal.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/functions/functions2/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/functions/functions2)
+
+### Shaky Drawing
+<img src="images/shaky.png" width="720">
+
+[Website Version](https://m4820.github.io/cart253/prototypes/functions/functions3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/functions/functions3)
 
 
 ### Links
