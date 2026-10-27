@@ -1,23 +1,20 @@
-# TITLE OF PROJECT
+# Signal
 
-AUTHOR NAME
+Mona Belfedhal
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://m4820.github.io/cart253/prototypes/functions/functions2/)
 
 ## Description
 
-This description should help the reader understand what the program is, anything they should know to be able to experience it (controls, special features, etc.), and what the desired user experience is. For example:
+Click to make a signal on a radar!
 
 ## Attribution
 
-This bit should attribute any code, assets or other elements used taken from other sources. For example:
-
 > - This project uses [p5.js](https://p5js.org).
+> - Main reference: [Denied Stamp](https://editor.p5js.org/pippinbarr/sketches/88JmODCt9) by Pippin Barr
 > - The clown image is a capture of the clown from the Apple emoji character set.
 > - The barking sound effect is "single dog bark 1" by crazymonke9 from freesound.org: https://freesound.org/people/crazymonke9/sounds/418107/
 
 ## License
-
-This bit could include the license you want to apply to your work. For example:
-
+S
 > This project is licensed under a Creative Commons Attribution ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)) license with the exception of libraries and other components with their own licenses.
