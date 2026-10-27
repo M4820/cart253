@@ -86,3 +86,21 @@ The staircase took the longest. This one, I was just messing around really... I 
 <img src="images/stairs2.png" width="720">
 
 I feel like there's some interesting patterns happening. And while I was messing around with it, there were a lot of "fake 3D" designs being made. I think that changing the opacity of things can create cool effects.
+
+## Entry 6
+
+### 27/10/2026
+
+#### Functions Assignment
+
+I was kind of revisiting past ideas for this one... 
+
+The first one I did was the ball game... I wanted to make it more challenging at first, by having the target move a bit, but I was having trouble with the detection (pictured below), so I just settled for something more simple instead...
+
+<img src="images/catch.gif" width="720">
+
+Still, I think the final result is my best "game" so far... I find it better than the last one, the falling ball thing... Maybe something cool to add would be a point counter for every successful capture, or something like that.
+
+For the signal one, it was going to be a revamped version of the bubbles one from last time (since this time I can have many bubbles at once!), but as I started messing around with the framerate and colors, I chose to do this instead... It was pretty experimental. But I think it's an improvement over the bubbles one. Still, the concept is similar (click something and it grows in size. Actually, I think I even did this before with the pink flower one...).
+
+Finally, for the shaky drawing one, I wanted to do something drawing related, something like a drawing program. So I was messing around with the randomness of the brushstroke, and now it has a bit of an ink feeling or something. Well, I think this one is the most simple out of the three... I still found it interesting though, since I do digital art, and I've always wondered how different brushes are made. Maybe it's a similar process..?
