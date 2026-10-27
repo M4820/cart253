@@ -1,12 +1,17 @@
 /**
- * Boingo
- * Pippin Barr
- *
- * A ball that bounces around on the canvas
+ * Smoothie Blender
+ * 
+ * 
+ * Mona and Kiki
+ * Boingo Base code by Pippin Barr
+ * 
+ * 
+ * Add fruits and veggies to a blender by clicking.
  */
 
 let ball1 = undefined; // Will create it with createBall()
-let fruits = ['🍓', '🥝', '🍉'];
+let fruits = ['🍓', '🥝', '🍉', '🍈', '🍍', '🍑', '🍇', '🍊', '🍌', '🫐', '🌝', '🍏', '🍐', '🍒', '🥭', '🥥', '🥑', '🍋', '🍅', '🥕', '🌽', '🥦', '🥬'];
+
 
 const balls = [];
 
@@ -27,9 +32,10 @@ function createBall() {
     // Position and dimensions
     x: mouseX,
     y: mouseY,
-    size: 20,
+    size: random(50, 100),
+    choice: random(fruits),
     // Colour
-    fill: "#000000",
+    // fill: "#000000",
     // Movement
     velocity: {
       x: random(-5, 5),
@@ -43,7 +49,7 @@ function createBall() {
  * Moves and draws the ball
  */
 function draw() {
-  background("#87ceeb");
+  background("#41bdee");
   
   for (let ball of balls) {
     moveBall(ball);
@@ -85,8 +91,9 @@ function bounceBall(ball) {
 function drawBall(ball) {
   push();
   noStroke();
-  fill(ball.fill);
-  ellipse(ball.x, ball.y, ball.size);
+  // fill(ball.fill);
+  textSize(ball.size);
+  text(ball.choice, ball.x, ball.y);
   pop();
 }
 
