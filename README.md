@@ -85,22 +85,6 @@ This website is a collection the prototyping work done in the CART253 course. It
 
 [Website Version](https://m4820.github.io/cart253/prototypes/functions/functions3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/functions/functions3)
 
-## Arrays | [Journal Entry](https://m4820.github.io/cart253/journal#entry-7)
-### More Bubbles
-<img src="images/bubbles.png" width="720">
-
-[Website Version](https://m4820.github.io/cart253/prototypes/arrays/arrays1/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/arrays/arrays1)
-
-### Bar Gradient
-<img src="images/gradient.png" width="1000">
-
-[Website Version](https://m4820.github.io/cart253/prototypes/arrays/arrays2/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/arrays/arrays2)
-
-### Meteor Shower
-<img src="images/meteor.png" width="720">
-
-[Website Version](https://m4820.github.io/cart253/prototypes/arrays/arrays3/) | [Repository](https://github.com/M4820/cart253/tree/main/prototypes/arrays/arrays3)
-
 
 ### Links
 ---
