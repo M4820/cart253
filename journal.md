@@ -104,3 +104,19 @@ Still, I think the final result is my best "game" so far... I find it better tha
 For the signal one, it was going to be a revamped version of the bubbles one from last time (since this time I can have many bubbles at once!), but as I started messing around with the framerate and colors, I chose to do this instead... It was pretty experimental. But I think it's an improvement over the bubbles one. Still, the concept is similar (click something and it grows in size. Actually, I think I even did this before with the pink flower one...).
 
 Finally, for the shaky drawing one, I wanted to do something drawing related, something like a drawing program. So I was messing around with the randomness of the brushstroke, and now it has a bit of an ink feeling or something. Well, I think this one is the most simple out of the three... I still found it interesting though, since I do digital art, and I've always wondered how different brushes are made. Maybe it's a similar process..?
+
+## Entry 7
+
+### 3/11/2026
+
+#### Arrays Assignment
+
+A bit short on ideas for this one... I think that they are maybe too repetitive conceptually. (Click to make stuff appear.)
+
+The first one is hopefully an improvement on the bubbles one from the events assignment. Now, you can blow more than one bubble at once..! But, there is still room for improvement. I would have wanted it to have it so that when you hold it, it keeps adding bubbles. Additionally, the growing in size aspect from the events one is lost... I also wanted for the cursor to be a wand. But I struggled so much with that, so I just gave up.
+
+<img src="images/wand.png">
+
+The gradient one, it was just experimental. My initial idea was to have some kind of bar that was visually similar to a volume slider on a TV or something, that could increase and decrease... but anyway, it just kind of transformed into this. It's pretty simple... but one thing I tried is to change up the canvas aspect ratio, since I usually just use the same one over and over again... I just like having a bit of consistency, I guess.
+
+Finally, building off of the gradient one, it was initially going to be a dripping effect, like paint or something like that. But it kind of reminded me of meteors, so I changed it up to look more like that... It would have been cool for them to have a slight curve, since it's pretty simplistic right now.
