@@ -2,7 +2,7 @@
 
 Mona & Kiki
 
-[View this project online](https://m4820.github.io/cart253/topics/variables-challenge/)
+[View this project online](https://m4820.github.io/cart253/topics/loops-challenge/)
 
 ## Description
 
