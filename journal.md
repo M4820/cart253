@@ -120,3 +120,9 @@ The first one is hopefully an improvement on the bubbles one from the events ass
 The gradient one, it was just experimental. My initial idea was to have some kind of bar that was visually similar to a volume slider on a TV or something, that could increase and decrease... but anyway, it just kind of transformed into this. It's pretty simple... but one thing I tried is to change up the canvas aspect ratio, since I usually just use the same one over and over again... I just like having a bit of consistency, I guess.
 
 Finally, building off of the gradient one, it was initially going to be a dripping effect, like paint or something like that. But it kind of reminded me of meteors, so I changed it up to look more like that... It would have been cool for them to have a slight curve, since it's pretty simplistic right now.
+
+## Entry 8
+
+### 15/11/2026
+
+#### Final Project 1/4
