@@ -11,7 +11,12 @@
 /**
  * OH LOOK I DIDN'T DESCRIBE SETUP!!
 */
+
+let state = "game1";
+
 function setup() {
+    createCanvas(960, 720);
+    background("#fb7575");
 
 }
 
