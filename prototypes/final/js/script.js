@@ -12,8 +12,3 @@ function setup() {
   
   background("#323232");
 }
-  
-
-
-
-
