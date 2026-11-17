@@ -1,105 +1,21 @@
 /**
- * Color Change
- * Mona Belfedhal
- * 
- * Move with the arrow keys to change the color of the circle and background.
- * 
- * Main reference used: https://p5js.org/reference/p5/keyIsDown/
- * 
+
  */
 
 "use strict";
 
-//defining the circle and its initial color
-let circle = {
-
-    x: 360,
-    y: 240,
-    width: 100,
-    height: 100,
-
-    fill: {
-    r: 150,
-    g: 150,
-    b: 150,
-  }
-};
-
-//defining the initial color of the background
-let backgroundcolor = {
-    
-    fill: {
-    r: 150,
-    g: 150,
-    b: 150,
-  }
-}
-
 //draws the canvas
 function setup() {
     createCanvas(1152, 864);
+    background(200);
 }
 
 
 //draws the circle and background color
 function draw() {
-    //the background color
-    background(backgroundcolor.fill.r,backgroundcolor.fill.g,backgroundcolor.fill.b);
-    
-
-    //the circle
-    push();
-    noStroke();
-    fill(circle.fill.r, circle.fill.g, circle.fill.b);
-    ellipse(circle.x, circle.y, circle.width, circle.height); 
+   push();
+    fill(0);
+    textSize(30);
+    text('My cool prototype', width / 2, height / 2)
     pop();
-
-    
-    //movement and color change whenever arrow key is pressed
-    if (keyIsDown(LEFT_ARROW) === true) {
-        circle.x -= 5;
-        circle.fill.r -= 4;
-        backgroundcolor.fill.g += 4;
-    }
-
-    if (keyIsDown(RIGHT_ARROW) === true) {
-        circle.x += 5;
-        circle.fill.g -= 4;
-        backgroundcolor.fill.b += 4;
-    }
-
-    if (keyIsDown(UP_ARROW) === true) {
-        circle.y -= 5;
-        circle.fill.b -= 4; 
-        backgroundcolor.fill.r += 4;
-    }
-
-    if (keyIsDown(DOWN_ARROW) === true) {
-        circle.y += 5;
-        circle.fill.g -= 4; 
-        backgroundcolor.fill.g += 4;
-    }
-    
-
-
-    //constraining the maximum value of the colors. when an arrow key is not being pressed, the circle turns white, and the background turns black.
-    let maxcolorCircler = constrain(circle.fill.r, 0, 255);
-    let maxcolorCircleg = constrain(circle.fill.g, 0, 255);
-    let maxcolorCircleb = constrain(circle.fill.b, 0, 255);
-
-    let maxcolorBgr = constrain(backgroundcolor.fill.r, 0, 255);
-    let maxcolorBgg = constrain(backgroundcolor.fill.g, 0, 255);
-    let maxcolorBgb = constrain(backgroundcolor.fill.b, 0, 255);
-
-    //turns the circle white
-    circle.fill.r = maxcolorCircler +=2;
-    circle.fill.g = maxcolorCircleg +=2;
-    circle.fill.b = maxcolorCircleb +=2;
-
-    //turns the background black
-    backgroundcolor.fill.r = maxcolorBgr -=2;
-    backgroundcolor.fill.g = maxcolorBgg -=2;
-    backgroundcolor.fill.b = maxcolorBgb -=2;
-
-
 }
