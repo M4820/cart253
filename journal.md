@@ -123,6 +123,18 @@ Finally, building off of the gradient one, it was initially going to be a drippi
 
 ## Entry 8
 
-### 15/11/2026
+### 17/11/2026
 
 #### Final Project 1/4
+
+For this project, I want to take the approach of making smaller prototypes with a unifying theme. The reason for this is because throughout the semester, I feel like I have made way more than I ever thought I could ever do because of the "3 weekly prototypes" structure. I want to maintain that momentum by following a similar approach...
+
+This week, I spent most of the time thinking about what to make. I also tried starting it a bit, but I faced some struggles... I want this final prototype to have a title screen/menu in which you would be able to access the smaller prototypes. However, I struggled a lot to implement this. I think that it's possible to switch between .js files, right..? That's how I'm thinking of structuring this entire thing, by having the smaller prototypes in separate .js files, and being able to switch between them by means of a menu. I got stuck on this early on, so I think I will just focus on making the smaller prototypes first, and figure out the title screen/menu near the end, since that would make up bulk of the project.
+
+The main inspiration for this project is a series of Flash games called "Hoshi Saga" by Yoshio Ishii (Nekogames). They are puzzle games where in each level, the objective is to find a star shape. I enjoy how creative the solutions for each stage are, and I also really like the art direction for it. The games early on in the series are all gray and monochromatic. I want to do something similar for this project, by having a unifying color scheme. The games also have a level select screen, which is a bit what I had in mind for my title screen.
+
+<img src="images/hoshisaga.png" width="720">
+
+For the amount of smaller prototypes, I want a number that I can make a nice grid with... so, minimum 4. But I'd like to strive toward something like 9... It depends on how intricate those 4 end up being, probably.
+
+As to what this unifying theme would be... I think that I want to do something with a monochromatic look, just like Hoshi Saga. So... it's still up in the air, but I think the keyword I have in mind right now is "shadow". I feel like a lot can be done with that concept, for example, something like shadow puppetry. But the word "shadow" has so many definitions to it, that I feel like it would be interesting to explore some of them through these prototypes. My projects so far have all been pretty minimalistic, so maybe I would be continuing that trend a bit by having a simple color scheme... I don't want to stay too much in my "comfort zone" though, so I'll try my best to make them interactable. I'm still not sure if they would all be minigames, or drawings... maybe it can be a combination of both, if I end up doing 9!
