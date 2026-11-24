@@ -144,3 +144,19 @@ As to what this unifying theme would be... I think that I want to do something w
 ### 17/24/2026
 
 #### Final Project 2/4
+
+I started to work on the prototypes. I decided to leave the title screen/main menu for later because it's better to go ahead and get a few prototypes started instead of getting stuck early on and not making anything... I need to be able to show off something at least. And the prototypes will make up the bulk of the project anyway...
+
+As I'm working on them, I'm thinking of making a bunch of smaller ones rather than only 4 more polished ones. So maybe I will be able to reach that goal of 9. But if that turns out to be too unrealistic, then the number that I'm settling on is 6. I can still make a nice grid thing with that... (2 rows of 3)
+
+The unifying idea I chose is "shadow", but the prototypes are going to have a more general theme of light and dark. Visually, I think I will focus on high contrast, but shades of grey are not off-limits. I'm interested in representing both literal and figurative meanings of the word "shadow".
+
+I am very nervous about the final product ending up feeling lackluster... So I am a bit relying on that title screen to make up for that. I haven't been feeling too confident, because I feel like this entire thing will only be passable once I get that title screen up and running, and I've already decided to leave that toward the end... I'm not feeling good about the upcoming presentation at all. How will I present them all together ??
+
+I think I will just show a mockup of the title screen for people to get an idea of it at least... 
+
+I think the name that I settled on for this assignment is "Shadow Play". But when I think of playfulness, I think of games. I don't know if I would describe this as a game... It's not very fun. They are more just... things that happen to be interactive. So maybe I can think of ways to make some of the protoypes game-like.
+
+Maybe not all of them have to be interactive, I also want to try and make a cool drawing or something, with a bunch of lines or shapes. I also really like elements of randomness, so I think I will try out more of that.
+
+Overall, I am feeling a bit unsure and nervous. Mostly about the presentation part, since I am not good with presentations in general. But also because I feel like I won't have much to show by then...
