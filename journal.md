@@ -138,3 +138,9 @@ The main inspiration for this project is a series of Flash games called "Hoshi S
 For the amount of smaller prototypes, I want a number that I can make a nice grid with... so, minimum 4. But I'd like to strive toward something like 9... It depends on how intricate those 4 end up being, probably.
 
 As to what this unifying theme would be... I think that I want to do something with a monochromatic look, just like Hoshi Saga. So... it's still up in the air, but I think the keyword I have in mind right now is "shadow". I feel like a lot can be done with that concept, for example, something like shadow puppetry. But the word "shadow" has so many definitions to it, that I feel like it would be interesting to explore some of them through these prototypes. My projects so far have all been pretty minimalistic, so maybe I would be continuing that trend a bit by having a simple color scheme... I don't want to stay too much in my "comfort zone" though, so I'll try my best to make them interactable. I'm still not sure if they would all be minigames, or drawings... maybe it can be a combination of both, if I end up doing 9!
+
+## Entry 9
+
+### 17/24/2026
+
+#### Final Project 2/4
