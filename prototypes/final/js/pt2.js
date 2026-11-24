@@ -41,10 +41,10 @@ function draw() {
     pop();
     
     
-    createLetters();
+    // createLetters();
 
-    //   textSize(300);
-    //   text('hi', 400, 300);
+      textSize(300);
+      text('hi', 400, 300);
 
         if (mouseIsPressed === true) {
             mousePressed();
