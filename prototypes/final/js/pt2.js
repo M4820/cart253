@@ -8,7 +8,12 @@ https://editor.p5js.org/aferriss/sketches/7M40v661y
 
 const letters = `abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`
 
-// properties of the signal
+// let letterspos = {
+//     x: random(width),
+//     y: random(height),
+// }
+
+
 let light = {
 
 x: 0,
@@ -38,6 +43,9 @@ function draw() {
     
     createLetters();
 
+    //   textSize(300);
+    //   text('hi', 400, 300);
+
         if (mouseIsPressed === true) {
             mousePressed();
 
@@ -49,7 +57,6 @@ function draw() {
 
     light.size = maxLightSize -=4;
 }
-
 
 
 function createLetters() {
