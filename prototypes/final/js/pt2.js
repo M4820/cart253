@@ -38,9 +38,16 @@ function draw() {
     
     createLetters();
 
+        if (mouseIsPressed === true) {
+            mousePressed();
+
+        } else {
+            mouseReleased();
+        }
+
     let maxLightSize = constrain(light.size, 150, 250);
 
-    light.size = maxLightSize -=3;
+    light.size = maxLightSize -=4;
 }
 
 
@@ -57,18 +64,11 @@ function createLetters() {
 
 
 function mousePressed() {
-    //lock the movement of the mouse
-    // requestPointerLock()
-
-
-
 
     light.size +=5;
 }
 
 function mouseReleased() {
-    //allows mouse to be moved
-    exitPointerLock()
 
 
 }
