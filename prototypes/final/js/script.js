@@ -25,7 +25,7 @@ let circle  = {
 
 //creates the canvas
 function setup() {
-    createCanvas(1152, 864);
+    createCanvas(800, 600);
 }
 
 
